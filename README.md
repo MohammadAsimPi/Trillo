@@ -1,1 +1,1 @@
-Trillo is a Hotel Booking Website. It is made from pure HTML,CSS and SCSS.
+Trillo is a Hotel Booking Website. It is made from pure HTML, CSS and SCSS. There are some bugs in the icons. It is not showing because of the provider's problem (Icomoon.io) and I prefer that you use another icon provider. If you are a beginner you can go through with a free icon provider, not with a paid one🙂.
